@@ -1,13 +1,3 @@
-# Week 2 Labs
-
-This repo contains instruction and files for Week 2 assignments. 
-
-To begin, you should:
-
-* Fork and clone this repo
-* Inspect the contents of this repo
-
-To ensure you recieve full points, review the assignment rubrics in Canvas before submitting your lab notebooks. 
 
 
 ## Fundamental Aspects of Python 

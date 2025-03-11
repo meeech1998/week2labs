@@ -3,17 +3,6 @@
 In this assignment you will create basic code showcasing the concepts you learned about in the tutorial. For this assignment you will create your first notebook with complex processing.
 
 
-## Descriptive Text
-
-Use Markdown to add descriptive text at the top of your notebook. Include details that inform the reader of the context, purpose, and author of the notebook. For example, you might include: 
-
-* Course Information (e.g., course name, graduate program name, etc.)
-* Assignment Name
-* Notebook Author Name
-* Submission Date
-
-Also include text welcoming users to your notebook (e.g., "Welcome to my Fahrenheit to Celsius converter!")
-
 ## Celsius to Fahrenheit Conversion 
 
 This notebook will convert celsius to fahrenheit and output the converted values. You will need to rely on the following formula:
@@ -21,7 +10,7 @@ This notebook will convert celsius to fahrenheit and output the converted values
 
 ### Step 1
 
-The fist step is to create two variables: `celsius` and `fahrenheit`. One will hold the value of `celsius` and another will hold the value of `fahrenheit`. Assign these each the value of `0.0`.
+The first step is to create two variables: `celsius` and `fahrenheit`. One will hold the value of `celsius` and another will hold the value of `fahrenheit`. Assign these each the value of `0.0`.
 
 ### Step 2
 
@@ -50,6 +39,8 @@ The third step involves converting the value of celsius into fahrentheit. Assign
 On a single line of code, output the following text using string interpolation:
 
 > *c* degrees celsius is *f* degrees fahrenheit.
+
+
 
 Where *c* is the value the user provided and *f* is the converted value. So, it should look like
 
